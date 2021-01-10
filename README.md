@@ -17,6 +17,5 @@
 1. [Cocktails](https://daru-yadi.netlify.app)
 
 
-### Reference
----
-You can refer this [repo](https://github.com/john-smilga/react-projects) for more details
+#### Reference
+ You can refer this [repo](https://github.com/john-smilga/react-projects) for more details
